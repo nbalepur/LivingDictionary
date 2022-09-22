@@ -1,0 +1,47 @@
+Although machine learning has started to sense the world around 20 years ago, this technology is considered a relatively young one.
+
+Siri is Apple’s pride. A personal digital assistant and one of the biggest Machine Learning projects the world has ever seen. Coming as a part of CALO ("Cognitive Assistant that Learns and Organizes"), Siri has become an indispensable part of every iPhone since iOS5 launch.
+
+For seven years it has evolved into a mature solution providing us with a hundred of memes along with the super-fast and convenient way of interacting with your iPhone. You can ask Siri to find a nearby restaurant, remind you of appointment at the dentist, wake you up 5 min to 7 am, play a song and lots of other things.
+
+We all know Yelp as the go-to source for finding a cozy place to hang out with your friends. Ratings, reviews, photos, addresses, work hours – all are listed there. With over 2.8 million local businesses registered on Yelp - you have a choice. What do we all pay attention to when choosing a place? Right, beautiful photos. That is why Yelp needs to proceed with millions of photos each day. How do they make it?
+
+Yelp is applying machine learning algorithms for automating the image processing and enhancing user experience. By implementing a photo classification service that recognizes and sorts the images according to their types and classes, the company can easily process millions of images daily. It also shows up the most relevant images based on user’s preference.
+
+The amount of data proceeded daily on Facebook servers rocket up to the stratosphere. Almost 1/6th of the world hang out on FB for about 50 min. Each day. However, when you enter FB it’s not a stranger-place but rather “your territory”. Why so?
+
+Facebook was among the pioneers who started applying machine learning and AI technology in its search and suggestions algorithms. They introduced FBLearner Flow, a machine learning platform that could take data, produce machine learning models, feed the information back to FBlearner predictor, and integrate the information back into the system. The information is then used in Facebook products like Search, Ads and News Feed.
+
+Twitter has implemented machine learning across many aspects of its work. An algorithmically curated timeline shows you the content that corresponds to your preferences. Over the time and based on your tweet ratings, interactions with the author, and interests, the timeline shows the most relevant tweets. And recently, the ML team behind Twitter has announced a new algorithm for smart image cropping powered with machine learning.
+
+The smart image cropping means “cropping using saliency” where saliency is the most interesting object on a picture. A Twitter team has applied data from academic studies into eye-tracking to define to which areas of an image people pay more attention.
+
+There’s no surprise that the Search giant uses machine learning to help us find things quicker on the internet. The technology of machine learning has recently expanded to Google Maps advancing the usability of the service.
+
+Smart algorithms detect street and object names on photos taken by Street View cars and increase the accuracy of search results.
+
+In early February 2017, Google launched a new feature in the Google Maps service, allowing you to determine the workload of parking. To teach the algorithm, developers from Google studied the information as to how easy it is for drivers to "find" parking space and measured the time they spent on this process. After that, the company cleared the irrelevant data: the drivers who stayed at private parking, and taxi drivers. Google determined that if drivers drive circles in the same area then it means that finding a parking space is quite difficult.
+
+Content management is the key focus of the social network Pinterest. And the company is doing everything possible to increase the efficiency of this process using machine learning.
+
+In 2015, Pinterest acquired Kosei, a company specializing in the commercial use of machine learning (searching for content and algorithms for recommendations).
+
+Today, machine learning is involved in every aspect of Pinterest's business operations, from moderating spam and content search to monetizing advertising and reducing the number of mailing lists. Not bad.
+
+Neural networks and machine learning algorithms allow you to collect and analyze huge datasets - dates and exact time of transactions, geographic location, customer information and customer behavior. Deep training technologies are used in PayPal's online payment system: to protect customers, the company has developed a large-scale system for collecting and analyzing behavioral patterns.
+
+PayPal uses machine learning algorithms to detect and combat fraud. By implementing deep learning techniques, PayPal analyses customer data and evaluates risk more efficiently.
+
+The power of Netflix lies in the recommendation engine. And machine learning is part and parcel of the process to find the most relevant TV shows based on user’s data and your preferences.
+
+Netflix was one of the first companies to apply collaborative filtering to create a recommendation model that used user ratings. By analyzing the ratings Netflix can understand which films to recommend to other "similar" users.
+
+Recently, to improve the user experience, Netflix has even begun to choose covers for content that are more appealing to a particular viewer.  The Netflix development department described how the personalization algorithm works. It may show an actor or a dramatic moment depending upon user’s taste that machine learning algorithms detect.
+
+The simpler something is on the surface the more complex logic hides inside. It’s so easy to be punctual with Uber. For that, we owe to machine learning algorithms that Uber use to determine the arrival time and pick-up location. The technology processes the trips made earlier and uses these data to estimate the result that applies to your trip.
+
+Uber’s ML platform is called Michelangelo. It covers the entire ML workflow: engineers at Uber can benefit from automatic data management, training, analysis, and predictions. The platform is implemented in UberEATS to estimate how long it will take to cook a meal and deliver it.
+
+Among all the music services Spotify became the first company to combine several models of analysis of songs. If you are one of those 100 million users who have just opened a new playlist to check what Spotify has prepared exactly for you, you may want to know that machine learning algorithms stand behind it. This is an individual mix of thirty songs that you have never heard, but you’ll probably like. This is called Discover Weekly, and it works like magic.
+
+Spotify knows your musical tastes better than anybody other. Every week you can discover the selection of excellent tracks that you would never have found by yourself. To make this happen, Spotify uses the 3 revolutionary models:
